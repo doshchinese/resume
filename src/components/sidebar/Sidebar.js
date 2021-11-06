@@ -54,7 +54,7 @@ class Sidebar extends Component {
                                 rel="opener noreferrer" 
                                 target="_blank" 
                                 // class="fa fas fa-envelope fa-lg"
-                            ><MdPhone size={30} fontWeight='bold' title = '+254786778004'/> </a>
+                            ><MdPhone size={30} fontWeight='bold' title = '+254715525648'/> </a>
                         </li>
                     </ul>
                 </div>
